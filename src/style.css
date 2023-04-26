@@ -1,2 +1,7 @@
 .weather-app {border: 1pt solid gray;
-margin-top: 10px;}
+margin-top: 10px;
+max-width: 600px;}
+
+.current-icon {font-size: 45px;}
+
+ul{list-style: none;}
